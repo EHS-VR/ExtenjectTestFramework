@@ -1,0 +1,7 @@
+{
+	"name": "com.svermeulen.extenject.testframework",
+	"displayName": "Extenject TestFramework",
+	"version": "9.1.0",
+	"description": "Dependency Injection TestFramework for Unity3D",
+	"dependencies": {}
+}
