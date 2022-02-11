@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07a3e624-3479-48d6-b25f-215d54ea6b7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.extenject-testframework.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.extenject-testframework.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/Castle.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/Castle.Core.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/License.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/Moq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/Moq.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/Source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/Moq-Net46/Moq/Source.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/ReadMe.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/TestAutoMocking.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/TestAutoMocking.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/ZenjectMoqExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoMocking/ZenjectMoqExtensions.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/NSubstitute.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/NSubstitute/NSubstitute.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/NSubstitute/NSubstitute.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/ReadMe.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/TestAutoSubstitute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/TestAutoSubstitute.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/ZenjectNSubstituteExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editor/AutoSubstitute/AutoSubstitute/ZenjectNSubstituteExtensions.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SceneTestFixture.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SceneTestFixture.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SceneTestFixtureSceneReference.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SceneTestFixtureSceneReference.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidateOnlyAttribute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidateOnlyAttribute.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zenject-TestFramework.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zenject-TestFramework.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZenjectIntegrationTestFixture.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZenjectIntegrationTestFixture.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZenjectTestUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZenjectTestUtil.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZenjectUnitTestFixture.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZenjectUnitTestFixture.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.extenject-testframework.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.extenject-testframework.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zenject-TestFramework.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Zenject-TestFramework.asmdef" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644517958924</updated>
       <workItem from="1644517966473" duration="425000" />
+      <workItem from="1644582356241" duration="423000" />
     </task>
     <servers />
   </component>
@@ -87,7 +42,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
